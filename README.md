@@ -3,7 +3,7 @@
 A PyROOT version of Manu's ROOT sndisplay.cc (https://github.com/emchauve/ROOT/blob/master/sndisplay.cc).
 It displays the SuperNEMO calorimeter, with the option of displaying the fiber mapping too. A save method was also added to the class in order to save the display to a .png.
 
-![PyROOT-SNDisplay](sndisplay.png)
+![PyROOT-SNDisplay](sncalorimeter.png)
 
 Run demo script in Python:
 
